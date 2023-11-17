@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TejasAgrakar
+- 👋 Hi, I’m @TejasAgarkar14
 - 👀 I’m interested in Game Development & AR/VR stuffs
 - 🌱 I’m currently learning GDScript for/along with Godot 4.X
 - 📫 Here's how to reach me :
